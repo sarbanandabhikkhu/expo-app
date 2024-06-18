@@ -1,0 +1,15 @@
+{
+  "editor.tabSize": 2,
+  "editor.fontSize": 14,
+  "editor.wordWrap": "off",
+  "editor.lineNumbers": "off",
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "breadcrumbs.enabled": false,
+  "prettier.printWidth": 120,
+  "liveServer.settings.port": 9000,
+  "workbench.colorTheme": "Expo Dark",
+  "workbench.colorCustomizations": {}
+}

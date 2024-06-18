@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "expo.vscode-expo-theme",
+    "vscode-icons-team.vscode-icons",
+    "esbenp.prettier-vscode",
+    "ritwickdey.liveserver",
+    "formulahendry.auto-rename-tag",
+    "ionutvmi.path-autocomplete",
+    "jock.svg"
+  ]
+}
